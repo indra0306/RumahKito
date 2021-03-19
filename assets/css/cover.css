@@ -1,0 +1,27 @@
+img{
+    height: 700px;
+}
+
+hr{
+    border-color: brown;
+    border-width: 4px;
+}
+h1{
+    color: black;
+}
+
+p{
+    color: black    ;
+}
+
+.btn{
+    background-color: brown;
+    border: none;
+    border-radius: 20px;
+    border-right: 25px;
+    border-left: 25px;
+}
+
+.carousel-item  .display-4{
+    margin-top: -400px;
+}

@@ -1,0 +1,27 @@
+
+.row{
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+
+
+
+.row .col-md-7 img{
+  width: 50%;
+  height: auto;
+  padding-top: 15px;
+  margin-left: 3cm;
+}
+
+ 
+.col-md-5{
+  padding-top: 48px;
+  padding-left: 10%;
+  padding-right: 10%;
+
+}
+
+
+

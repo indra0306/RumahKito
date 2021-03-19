@@ -1,0 +1,41 @@
+.col-md-12 .row{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+.row .border-right img{
+    width: 70%;
+    height: 80%;
+    margin-left: 10%;
+}
+
+.row .border-left img{
+    width: 70%;
+    height: 80%;
+    margin-left: 5%;
+}
+
+.row .border-right{
+    width: 370px;
+}
+
+
+.row .border-left{
+    width: 370px;
+}
+
+.row .border-left a{
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.row .border-right a{
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.row h3{
+    padding-left: 6%;
+}

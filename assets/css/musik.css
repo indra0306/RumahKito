@@ -1,0 +1,47 @@
+
+.card{
+    margin-top: -20%;
+    box-shadow: 0 0px 5px rgb(149, 202, 235);
+}
+
+
+.card-body img{
+    width: 90px;
+    height: 70px;
+    border-radius: 40%;
+    border: 3px solid #ffffff;
+    object-fit: contain;
+    margin-top: 3%;
+}
+
+audio{
+    width: 100%;
+    height: 50px;
+    background: #1111;
+}
+
+.row{
+    padding-top: 8%;
+}
+
+
+.player{
+    max-width: 250px;
+    height: 300px;
+}
+
+h3{
+    padding-top: 7%;
+}
+
+.border-top{
+    width: 100%;
+}
+
+.card1{
+    box-shadow: 0 0px 5px rgb(38, 224, 63);
+}
+
+.tari{
+    margin-top: -5%;
+}
